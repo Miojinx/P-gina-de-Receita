@@ -9,6 +9,7 @@
 header{
     font-size: 2rem;
     padding-left: 3.5vw;
+    background-color: #DCF2FA;
 }
 
 main{
@@ -16,9 +17,11 @@ main{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    background-color: #D3DBE5;
 }
 
 .content-main{
+    background-color: #DCF2FA;
     border: solid black 1px;
     display: flex;
     justify-content: center;
@@ -33,6 +36,7 @@ main{
     object-fit:cover;
     width: 50%;
     align-self: center;
+    padding-bottom: 2%;
 }
 
 h1{
@@ -58,4 +62,5 @@ ol{
 footer{
     height: 3vh;
     text-align: center;
+    background-color: #DCF2FA;
 }
