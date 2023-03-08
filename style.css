@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+/* header{
+    font-size: 2rem;
+    padding-left: 3.5vw;
+} */
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.content-main{
+    border: solid black 1px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 92vw;
+    padding: 2vw;
+    padding-top: 0%;
+    text-align: justify;
+}
+
+h1{
+    padding: 2%;
+    text-align: center;
+}
+
+h2{
+    padding: 2%;
+    text-align: center;
+}
+
+ul{
+    text-align: left;
+}
+
+/* footer{
+    height: 3vh;
+} */
