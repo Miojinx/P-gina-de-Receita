@@ -29,6 +29,12 @@ main{
     text-align: justify;
 }
 
+#img-bolo{
+    object-fit:cover;
+    width: 50%;
+    align-self: center;
+}
+
 h1{
     padding: 2%;
     text-align: center;
@@ -51,4 +57,5 @@ ol{
 
 footer{
     height: 3vh;
+    text-align: center;
 }
