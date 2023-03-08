@@ -1,13 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 *{
     margin: 0;
     padding: 0;
-
+    font-family: 'Roboto', sans-serif;
 }
 
-/* header{
+header{
     font-size: 2rem;
     padding-left: 3.5vw;
-} */
+}
 
 main{
     display: flex;
@@ -39,8 +41,14 @@ h2{
 
 ul{
     text-align: left;
+    padding-left: 2%;
 }
 
-/* footer{
+ol{
+    text-align: left;
+    padding-left: 2%;
+}
+
+footer{
     height: 3vh;
-} */
+}
