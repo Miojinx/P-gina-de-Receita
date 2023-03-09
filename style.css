@@ -88,7 +88,11 @@ footer{
     box-shadow: 1px 1px;
 }
 
-/* footer a{
-    color: white;
-    background-color: black;
-} */
+footer a, footer a:visited{
+    margin-left: 0.5%;
+    color: black;
+    background-color: #D3DAE3;
+    text-decoration: none;
+    border-radius: 3px;
+    transition: 0.3s;
+}
